@@ -1,3 +1,4 @@
+import '..//index.css'; 
 import Profile from './profile/Profile';
 import Statistics from './statistics/Statistics';
 import FriendList from './friendList/FriendList';
