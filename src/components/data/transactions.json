@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "amount": 50,
+      "date": "2025-03-19",
+      "type": "deposit"
+    },
+    {
+      "id": 2,
+      "amount": 30,
+      "date": "2025-03-18",
+      "type": "withdrawal"
+    }
+  ]
+  

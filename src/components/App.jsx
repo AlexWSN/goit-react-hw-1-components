@@ -1,8 +1,8 @@
 import '..//index.css'; 
 import Profile from './profile/Profile';
 import Statistics from './statistics/Statistics';
-import FriendList from './friendList/FriendList';
-import TransactionHistory from './transactionHistory/TransactionHistory';
+import FriendList from './friendlist/FriendList';
+import TransactionHistory from './transactionhistory/TransactionHistory';
 
 import user from './data/user.json';
 import stats from './data/data.json';
